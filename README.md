@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mukesh Kumar (monu)</h1>
 <h3 align="center">A passionate about Data Science</h3>
 
-- 🔭 I’m currently working on [Recommended System](https://github.com/mukesh1996-ds/Books-Recommender-System.git)
+- 🔭 I’m currently working on DashBoarding
 
-- 🌱 I’m currently learning **Computer Vision**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on **Object Detection**
 
