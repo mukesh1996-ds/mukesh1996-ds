@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mukesh Kumar (monu)</h1>
+<h1 align="center">Hi 👋, I'm Mukesh Kumar </h1>
 <h3 align="center">A passionate about Data Science</h3>
 
 - 🔭 I’m currently working on DashBoarding
